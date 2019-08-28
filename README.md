@@ -1,3 +1,4 @@
+# Predictive-Analysis (Online Article Popularity Prediction
 1. To run any program in this module, open your terminal cd into the directory you have saved this folder in. 
 2. Type - python <nameof .py file>.py 
 For each module, the dataset has been included separately. 
@@ -14,4 +15,3 @@ Top shares folder - code to identify the topics in the top 10 and top 50 share c
 
 Training test splits folder - this folder contains code to idenitfy the best training-test split ratio. 
 
-# Predictive-Analysis
